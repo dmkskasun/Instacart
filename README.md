@@ -1,5 +1,7 @@
 # Instacart
 ## Objective
+![image](https://github.com/dmkskasun/Instacart/assets/71329902/dd172d47-b273-41af-a656-ca0164aaaeeb)
+
  You’re an analyst for an existing company, Instacart, an online grocery store
  that operates through an app. Instacart already has very good sales, but they
  want to uncover more information about their sales patterns. Your task is to
