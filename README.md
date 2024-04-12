@@ -1,6 +1,7 @@
 # Instacart
 ## Objective
-![image](https://github.com/dmkskasun/Instacart/assets/71329902/dd172d47-b273-41af-a656-ca0164aaaeeb)
+![image](https://github.com/dmkskasun/Instacart/assets/71329902/08429843-ae7f-4e35-9250-d4555788688f)
+
 
  You’re an analyst for an existing company, Instacart, an online grocery store
  that operates through an app. Instacart already has very good sales, but they
